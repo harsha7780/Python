@@ -40,7 +40,7 @@ Recording the user details
 #### When:
 Whenever there is an emergency
 #### How:
-Through an well built-in system with security and privacy
+Through a well built-in system with security and privacy
 
 ### Detail Requirements:
 ![](Defining_our_system.png)
