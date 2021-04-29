@@ -34,10 +34,13 @@
 
 ### 4W's and 1'H
 #### Who:
-
+The users and admin could able to access the system
 #### What:
+Recording the user details
 #### When:
+Whenever there is an emergency
 #### How:
+Through an well built-in system with security and privacy
 
 ### Detail Requirements:
 ![](Defining_our_system.png)
